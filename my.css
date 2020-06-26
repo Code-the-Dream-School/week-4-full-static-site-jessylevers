@@ -1,15 +1,24 @@
+body{
+  background-image: linear-gradient(rgba(212, 216, 215, 0.5), rgba(126, 131, 125, 0.623), rgb(44, 46, 45)),
+    url("https://i.imgur.com/fKs7K2h.jpg");
+}
+/* Navbar */
+.navbar{
+  color: gray;
+}
 ul{
   list-style: none;
 }
 
 .jumbotron{
-  background: linear-gradient(0deg,#fff,transparent),
-              url('https://placeimg.com/1000/500/tech') no-repeat center;
+  background: linear-gradient(0deg, #2b302e, transparent),
+              url('https://i.imgur.com/xO4lLpy.jpg') no-repeat center;
   background-size:  cover;
+  box-shadow: black;
 }
 
 .title-letter{
-  	font-family: 'Megrim', cursive;
+  	font-family: 'Mergim' cursive;
     font-weight: bold;
 }
 
@@ -37,4 +46,14 @@ ul{
 }
 .twitter::after{
   content: url(./media/twitter.svg);
+}
+
+a[href$=".html"]{
+  color:white
+}
+
+/* Images */
+img{
+  image-rendering: pixelated;
+  object-fit: contain;
 }
