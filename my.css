@@ -2,10 +2,7 @@ body{
   background-image: linear-gradient(rgba(212, 216, 215, 0.5), rgba(126, 131, 125, 0.623), rgb(44, 46, 45)),
     url("https://i.imgur.com/fKs7K2h.jpg");
 }
-/* Navbar */
-.navbar{
-  color: gray;
-}
+
 ul{
   list-style: none;
 }
@@ -57,3 +54,21 @@ img{
   image-rendering: pixelated;
   object-fit: contain;
 }
+.img-thumbnail{
+  max-height: 10rem;
+  max-width: 10rem;
+  display: inline-flex;
+}
+
+/* Videos */
+video {
+  display: block;
+  margin-bottom: 2rem;
+  padding: 1rem;
+}
+
+/* Navbar */
+.navbar{
+  background-image: linear-gradient( rgba(126, 131, 125, 0.623), rgb(44, 46, 45)),
+    url("https://i.imgur.com/aXo6D0W.jpg");
+
