@@ -1,9 +1,6 @@
 Sources:
 1. Bootstrap Components => https://getbootstrap.com/docs/4.5/components/
-2. Create Your Img Links => https://imgur.com/ (use BBCode link if usign in CSS just remove img tags)
-3. 
+2. Create Your Img Links => https://imgur.com/ (use BBCode link if using in CSS just remove img tags)
+
 
 Feedback:
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38WplkkBVGc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

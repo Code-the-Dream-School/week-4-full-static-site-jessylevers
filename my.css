@@ -46,7 +46,7 @@ ul{
 }
 
 a[href$=".html"]{
-  color:white
+  color: white;
 }
 
 /* Images */
@@ -71,4 +71,3 @@ video {
 .navbar{
   background-image: linear-gradient( rgba(126, 131, 125, 0.623), rgb(44, 46, 45)),
     url("https://i.imgur.com/aXo6D0W.jpg");
-
